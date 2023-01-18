@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MonZoo</string>
+
+    <string name="maki">Maki Catta</string>
+    <string name="capucin">Capucin brun</string>
+    <string name="fennec">Fennec</string>
+    <string name="ocelot">Ocelot</string>
+    <string name="serval">Serval</string>
+    <string name="elephant">Éléphant</string>
+    <string name="tigre">Tigre</string>
+    <string name="loutre">Loutre d\'Europe</string>
+    <string name="alligator">Alligator</string>
+    <string name="naja">Naja</string>
+    <string name="iguane">Iguane vert</string>
+    <string name="tortue">Tortue d\'Hermann</string>
+    <string name="pygarque">Pygargue à tête blanche</string>
+    <string name="ara">Ara bleu</string>
+    <string name="cagou">Cagou</string>
+    <string name="kiwi">Kiwi Austral</string>
+
+</resources>
