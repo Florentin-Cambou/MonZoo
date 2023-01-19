@@ -7,6 +7,6 @@ import androidx.compose.runtime.Composable
 fun ScaffoldComposable(){
     Scaffold(
         topBar = { TopAppBarComposable() },
-        content = { BodyComposable() }
+        content = { paddingValues -> BodyComposable(paddingValues)  }
     )
 }
